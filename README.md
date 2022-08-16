@@ -28,7 +28,7 @@ ThingsBoard documentation is hosted on [thingsboard.io](https://thingsboard.io/d
 ```
 - Or run with command line:
 ```
-   java -jar application/target/thingsboard-3.2.2-boot.jar
+   java -jar application/target/thingsboard-3.3.4-boot.jar
 ```
 
 ## Result
